@@ -1,4 +1,4 @@
-checkio-mission-earth-distances
+earth-distances
 ===============================
 
-Checkio Mission "Earth Distances"
+Crystal Store "Earth Distances"

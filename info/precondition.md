@@ -1,0 +1,3 @@
+**Precondition:**
+
+Correct Earth coordinates.
