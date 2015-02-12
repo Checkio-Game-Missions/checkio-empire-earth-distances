@@ -1,4 +1,3 @@
-Unfortunately the War have taken almost all our equipment and
-we have to use museum exhibits from mythical Earth.
-For transporter training we will use ancient simulator of the Earth.
-Not sure why but it's titled "Globe".
+The War Effort has taken almost all our equipment, so we have to resort to using museum exhibits from the mythical planet Earth.
+For transporter training we are using an ancient simulation of the Earth.
+Our archaeologists are not sure why, but for some reason it's been labeled "Globe".
