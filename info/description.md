@@ -12,7 +12,7 @@ You are given two points as coordinates and must find the shortest distance betw
 these points on the surface of the Earth, measured along the surface of the Earth.
 
 Coordinates are given as a string with the latitude and longitude separated by comma and/or whitespace.
-Latitude and longitude are represented in the follow format: ```d°m′s″X```
+Latitude and longitude are represented in the following format: ```d°m′s″X```
 
 In this example, "d" is degrees, "m" is minutes, "s" is seconds as integers, while "X" is "N"
 (north) or "S" (south) for a latitude and "W" (west) or "E" (east) for a longitude.
