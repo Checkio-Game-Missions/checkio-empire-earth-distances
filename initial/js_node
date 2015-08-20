@@ -1,3 +1,5 @@
+"use strict";
+
 var R = 6371;
 
 
@@ -17,4 +19,5 @@ if (!global.is_checking) {
     assert(almostEqual(distance("51°28′48″N 0°0′0″E", "46°12′0″N, 6°9′0″E"), 739.2), "From Greenwich to Geneva");
     assert(almostEqual(distance("90°0′0″N 0°0′0″E", "90°0′0″S, 0°0′0″W"), 20015.1), "From South to North");
     assert(almostEqual(distance("33°51′31″S, 151°12′51″E", "40°46′22″N 73°59′3″W"), 15990.2), "Opera Night");
+    console.log("Use 'Check' to earn sweet rewards!");
 }
